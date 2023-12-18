@@ -1,0 +1,12 @@
+C:\Users\ltybj\OneDrive\Desktop\.net\BlogTracker.DAL\BlogTracker.DAL\bin\Debug\net6.0\BlogTracker.DAL.deps.json
+C:\Users\ltybj\OneDrive\Desktop\.net\BlogTracker.DAL\BlogTracker.DAL\bin\Debug\net6.0\BlogTracker.DAL.dll
+C:\Users\ltybj\OneDrive\Desktop\.net\BlogTracker.DAL\BlogTracker.DAL\bin\Debug\net6.0\BlogTracker.DAL.pdb
+C:\Users\ltybj\OneDrive\Desktop\.net\BlogTracker.DAL\BlogTracker.DAL\obj\Debug\net6.0\BlogTracker.DAL.csproj.AssemblyReference.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\BlogTracker.DAL\BlogTracker.DAL\obj\Debug\net6.0\BlogTracker.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ltybj\OneDrive\Desktop\.net\BlogTracker.DAL\BlogTracker.DAL\obj\Debug\net6.0\BlogTracker.DAL.AssemblyInfoInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\BlogTracker.DAL\BlogTracker.DAL\obj\Debug\net6.0\BlogTracker.DAL.AssemblyInfo.cs
+C:\Users\ltybj\OneDrive\Desktop\.net\BlogTracker.DAL\BlogTracker.DAL\obj\Debug\net6.0\BlogTracker.DAL.csproj.CoreCompileInputs.cache
+C:\Users\ltybj\OneDrive\Desktop\.net\BlogTracker.DAL\BlogTracker.DAL\obj\Debug\net6.0\BlogTracker.DAL.dll
+C:\Users\ltybj\OneDrive\Desktop\.net\BlogTracker.DAL\BlogTracker.DAL\obj\Debug\net6.0\refint\BlogTracker.DAL.dll
+C:\Users\ltybj\OneDrive\Desktop\.net\BlogTracker.DAL\BlogTracker.DAL\obj\Debug\net6.0\BlogTracker.DAL.pdb
+C:\Users\ltybj\OneDrive\Desktop\.net\BlogTracker.DAL\BlogTracker.DAL\obj\Debug\net6.0\ref\BlogTracker.DAL.dll
